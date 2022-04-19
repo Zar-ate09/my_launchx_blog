@@ -1,5 +1,5 @@
 ---
-title: Launch X Bitácora de viaje
+title: Launch X Bitácora de viaje de J. Zárate
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
