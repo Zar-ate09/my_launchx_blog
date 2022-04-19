@@ -1,6 +1,6 @@
 baseURL = "https://zar-ate09.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de J. Zárate"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
